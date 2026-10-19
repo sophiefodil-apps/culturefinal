@@ -1,0 +1,31 @@
+{
+  "id": "/culturefinal/?app=culturefinal-2026-10-19",
+  "name": "Culture Final — ΠΕΓΠ",
+  "short_name": "Culture Final",
+  "start_url": "/culturefinal/index.html",
+  "scope": "/culturefinal/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#121417",
+  "theme_color": "#121417",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
